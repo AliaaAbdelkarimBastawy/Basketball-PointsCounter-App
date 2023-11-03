@@ -1,16 +1,10 @@
-# bastketball_pointscounter
+# Basketball Points Counter APP
 
-A new Flutter project.
+The Basketball Points Counter APP is a Flutter app that allows users to keep track of the points scored
+by two basketball teams. Users can add points (1-point, 2-point, and 3-point) for each team and reset the scores to zero whenever needed.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Add 1-point, 2-point, and 3-point scores for two basketball teams.
+- Real-time score updates for both teams.
+- Reset button to clear the scores and start a new game.
